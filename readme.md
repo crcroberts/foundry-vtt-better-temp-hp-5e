@@ -2,7 +2,7 @@
 
 Adds ease of use and quality of life enhancements for using temporary hitpoints under the betterrolls5e module.
 
-![Release Version](https://img.shields.io/github/v/release/crcroberts/)
+![Release Version](https://img.shields.io/github/v/release/crcroberts/foundry-vtt-better-temp-hp-5e)
 ![Foundry Version](https://img.shields.io/badge/dynamic/json.svg?url=https://github.com/crcroberts/foundry-vtt-better-temp-hp-5e/releases/latest/download/module.json&label=foundry%20version&query=$.compatibleCoreVersion&colorB=blueviolet)
 
 ### Setting Temp HP
