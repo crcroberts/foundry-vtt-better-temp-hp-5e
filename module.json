@@ -5,7 +5,7 @@
     "author": "crcroberts",
     "version": "1.0.0",
     "url": "https://github.com/crcroberts/foundry-vtt-better-temp-hp-5e/tree/main",
-    "manifest": "https://github.com/crcroberts/foundry-vtt-better-temp-hp-5e/tree/main/module.json",
+    "manifest": "https://github.com/crcroberts/foundry-vtt-better-temp-hp-5e/releases/latest/download/module.json",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.8",
     "system": ["dnd5e"],
