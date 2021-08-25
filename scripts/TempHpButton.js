@@ -53,6 +53,13 @@ export default class TempHpButton {
             });
 
         });
+
+        Monkey.replaceMethod(BetterRollsChatCard, '_onHover', function(html) {            
+            Monkey.callOriginalFunction(this, '_onHover', html);
+
+            const controlled = canvas?.tokens.controlled.length > 0;
+            html.find('.temp-hp-button').toggle(controlled);
+        });
     }
 
     /**
